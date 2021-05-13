@@ -5,7 +5,7 @@
 <div>
   <br>
 <div>
-  <a href="https://github.com/JonathSilva">
+  <a href="https://github.com/eezyjb">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eezyjb&theme=yeblu"/>
 <div>
  
