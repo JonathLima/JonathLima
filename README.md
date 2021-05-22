@@ -6,7 +6,12 @@
   <br>
 <div>
   <a href="https://github.com/eezyjb">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathSilva&theme=yeblu"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathSilva&theme=yeblu"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=yeblu"/>
+    
+    
+ 
+
 <div>
  
  
