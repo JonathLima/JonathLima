@@ -1,6 +1,4 @@
 ## Hey, I'm Jonathan Silva! 👋
-
-  <br>
 <div>
   <a href="https://github.com/eezyjb">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathSilva&show_icons=true&theme=yeblu"/>
