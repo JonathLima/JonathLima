@@ -1,8 +1,5 @@
 ## Hey, I'm Jonathan Silva! 👋
 
-<div>
-<img align="center" margin:"0px" alt= "Jonath-Portifolio" src="https://i.imgur.com/vpqD6AQ.png">
-<div>
   <br>
 <div>
   <a href="https://github.com/eezyjb">
