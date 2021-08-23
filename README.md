@@ -1,7 +1,7 @@
 ## Hey, I'm Jonathan Silva! 👋
 
 <div>
-<img align="center" margin:"0px" alt= "Jonath-Welcome" width="320" height="100" src="https://media.giphy.com/media/sbkBpSwsE0pGKCvLFT/source.gif">
+<img align="center" margin:"0px" alt= "Jonath-Portifolio" src="https://i.imgur.com/vpqD6AQ.png">
 <div>
   <br>
 <div>
