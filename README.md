@@ -1,6 +1,4 @@
 ## Hey, I'm Jonathan Silva! 👋
-
-### My goal is to become a fullstack developer with focus on backend, I have great notions with html, css and javascript with react framework.
 <div>
   <a href="https://github.com/eezyjb">
      <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathSilva&theme=yeblu"/>
