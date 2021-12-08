@@ -18,9 +18,9 @@
   <img align="center" alt="Jonth-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jonth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jonth-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Jonth-akira" height="200" width="250" src="https://media.giphy.com/media/26h0rcFBZRm2epqA8/giphy.gif">
 </div>
    
+  <img align="right" alt="Jonth-akira" height="200" width="250" src="https://media.giphy.com/media/26h0rcFBZRm2epqA8/giphy.gif">
   
   <div>
   <a href = "mailto: jonathansilvadacostalima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
