@@ -11,7 +11,7 @@
 <div>
  
  
- ## 🔨 Interests
+ ## 🔨 Interests and Skills
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonth-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
