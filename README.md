@@ -27,7 +27,7 @@
   <img align="center" alt="Jonth-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Jonth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div><br>
-
+<hr/>
   <img align="right" alt="Jonth-akira" height="200" width="250" src="https://media.giphy.com/media/26h0rcFBZRm2epqA8/giphy.gif">
   
   <div>
