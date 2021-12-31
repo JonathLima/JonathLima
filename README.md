@@ -19,7 +19,7 @@
   <img align="center" alt="Jonth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
-  ## 🔨 Interests
+  ## 💻 Interests
   
 <div style="display: inline_block">
   <img align="center" alt="Jonth-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
