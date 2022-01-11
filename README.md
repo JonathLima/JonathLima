@@ -5,11 +5,11 @@
     <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathSilva&show_icons=true&theme=yeblu"/>
 </div><hr>
  
-I'm **Jonathan Silva**, a student about to become a Full Stack developer.
+  <p>I'm **Jonathan Silva**, a student about to become a Full Stack developer.</p>
 
 I am currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, and playing games.
 
-- 🔮 Streamer at [Twitch.tv](http://twitch.tv/)
+- 🔮 Streamer at [Twitch.tv](http://twitch.tv/eezyjb)
 - 📷 Amateur Photographer
 - 🎨 Independent Artist
 - 🎮 Gamer Development enthusiast
