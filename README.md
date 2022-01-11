@@ -5,7 +5,7 @@
     <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathSilva&show_icons=true&theme=yeblu"/>
 </div>
   
-  # Hellow Masta [Hands]
+  # Hellow Masta [Hands](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)
   
   <p>I'm **Jonathan Silva**, a student about to become a Full Stack developer.<p>
 
@@ -46,4 +46,4 @@
     
    ![Snake animation](https://github.com/JonathSilva/JonathSilva/blob/output/github-contribution-grid-snake.svg)
     
-[Hands](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)
+
