@@ -5,14 +5,14 @@
     <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathSilva&show_icons=true&theme=yeblu"/>
 </div>
   
-  # Hellow Masta [Hands](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)
+  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hellow Fellas</h1></img>
   
  
 I'm **Jonathan Silva**, a student about to become a Full Stack developer.
 
 I am currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, and playing games.
 
-- 🔮 Streamer at [Twitch.tv](http://twitch.tv/eezyjb)
+- 🔮 Streamer at [Twitch](http://twitch.tv/eezyjb)
 - 📷 Amateur Photographer
 - 🎨 Independent Artist
 - 🎮 Gamer Development enthusiast
