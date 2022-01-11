@@ -20,9 +20,10 @@
   
 
 - 🔮 Streamer at [Twitch](http://twitch.tv/eezyjb)
-- 📷 Amateur Photographer
 - 🎨 Independent Artist
+- 📷 Amateur Photographer
 - 🎮 Gamer Development enthusiast
+- 🧘🏽‍♂️ Time for meditation
 - 🤖 Cyberpunk Universe Lover
   
 </p>
