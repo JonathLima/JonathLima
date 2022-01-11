@@ -4,10 +4,12 @@
      <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathSilva&theme=yeblu"/>
     <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathSilva&show_icons=true&theme=yeblu"/>
 </div><hr>
- 
-  <p>I'm **Jonathan Silva**, a student about to become a Full Stack developer.</p>
+  
+  # Hellow Masta
+  
+  <p>I'm **Jonathan Silva**, a student about to become a Full Stack developer.<p>
 
-I am currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, and playing games.
+   <p>I am currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, and playing games.<p>
 
 - 🔮 Streamer at [Twitch.tv](http://twitch.tv/eezyjb)
 - 📷 Amateur Photographer
