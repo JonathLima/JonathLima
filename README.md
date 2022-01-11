@@ -3,29 +3,24 @@
   <a href="https://github.com/eezyjb">
      <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathSilva&theme=yeblu"/>
     <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathSilva&show_icons=true&theme=yeblu"/>
-    
-    
-    
- 
-
 <div>
  
  
  ## 🔨 Skills
  
 <div style="display: inline_block">
-  <img align="center" alt="Jonth-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jonth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jonth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Jonth-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="Jonth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="Jonth-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
 </div><br>
   
   ## 💻 Interests
   
 <div style="display: inline_block">
-  <img align="center" alt="Jonth-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Jonth-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jonth-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Jonth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jonth-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
+  <img align="center" alt="Jonth-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Jonth-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="center" alt="Jonth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   </div><br>
 <hr/>
   <img align="right" alt="Jonth-akira" height="200" width="250" src="https://media.giphy.com/media/26h0rcFBZRm2epqA8/giphy.gif">
