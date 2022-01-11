@@ -10,12 +10,13 @@
 <p>
   I'm <strong>Jonathan Silva</strong>, a student about to become a Full Stack developer.
   
-  Currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, 
+  Currently in college studying system development, and my hobby is drawing, learning about </br> technologies that interest me, 
   and playing games.
   
   <div>
     <img align="right" alt="Jonth-akira" height="200" width="250" src="https://media.giphy.com/media/26h0rcFBZRm2epqA8/giphy.gif">
   </div>
+  
   
 
 - 🔮 Streamer at [Twitch](http://twitch.tv/eezyjb)
