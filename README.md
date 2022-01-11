@@ -29,7 +29,7 @@
 </p>
 
 
-<h4>More Infos</h4>
+<h4>Contact me!</h4>
 
  <div>
   <a href = "mailto: jonathansilvadacostalima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
