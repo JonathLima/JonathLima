@@ -6,7 +6,7 @@
     <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathSilva&show_icons=true&theme=yeblu"/>
 </div>
  
-<p>
+
 I'm **Jonathan Silva**, a student about to become a Full Stack developer.
 
 I am currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, and playing games.
@@ -16,7 +16,7 @@ I am currently in college studying system development, and my hobby is drawing, 
 - 🎨 Independent Artist
 - 🎮 Gamer Development enthusiast
 - 🤖 Cyberpunk Universe Lover
-  </p>
+ 
 
   
  ## 🔨 Skills
@@ -41,7 +41,7 @@ I am currently in college studying system development, and my hobby is drawing, 
   <div>
   <a href = "mailto: jonathansilvadacostalima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <div>
+  </div>
     
    ![Snake animation](https://github.com/JonathSilva/JonathSilva/blob/output/github-contribution-grid-snake.svg)
     
