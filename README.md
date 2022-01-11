@@ -16,7 +16,7 @@ I am currently in college studying system development, and my hobby is drawing, 
 - 🎨 Independent Artist
 - 🎮 Gamer Development enthusiast
 - 🤖 Cyberpunk Universe Lover
- </div>
+ </div><hr>
 
   
  ## 🔨 Skills
