@@ -10,7 +10,7 @@
 <p>
   I'm <strong>Jonathan Silva</strong>, a student about to become a Full Stack developer.
   
-  Currently in college studying system development, and my hobby is drawing, learning</br> about technologies that interest me, 
+  Currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, 
   and playing games.
   
   <div>
