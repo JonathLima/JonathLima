@@ -6,7 +6,7 @@
     <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathSilva&show_icons=true&theme=yeblu"/>
 </div>
  
-
+<div>
 I'm **Jonathan Silva**, a student about to become a Full Stack developer.
 
 I am currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, and playing games.
@@ -16,7 +16,7 @@ I am currently in college studying system development, and my hobby is drawing, 
 - 🎨 Independent Artist
 - 🎮 Gamer Development enthusiast
 - 🤖 Cyberpunk Universe Lover
- 
+ </div>
 
   
  ## 🔨 Skills
