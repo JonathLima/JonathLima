@@ -5,7 +5,7 @@
     <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathSilva&show_icons=true&theme=yeblu"/>
 </div>
   
-  <h1 align="center">Hellow Fellas<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></img>
+  <h1 align="center">Hellow Fellas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></img>
   
  
 I'm **Jonathan Silva**, a student about to become a Full Stack developer.
