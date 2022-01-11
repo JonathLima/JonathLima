@@ -1,4 +1,15 @@
 ## Hey, I'm Jonathan Silva! 👋
+
+I'm **Jonathan Silva**, a student about to become a Full Stack developer.
+
+I am currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, and playing games.
+
+- 🔮 Streamer at Twitch.tv
+- 📷 Amateur Photographer
+- 🎨 Independent Artist
+- 🎮 Gamer Development enthusiast
+- 🤖 Cyberpunk Universe Lover
+
 <div>
   <a href="https://github.com/eezyjb">
      <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathSilva&theme=yeblu"/>
