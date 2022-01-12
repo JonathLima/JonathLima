@@ -58,7 +58,7 @@
   <div style="display: inline_block">
   <img align="center" alt="Jonth-React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
    <img align="center" alt="Jonth-Nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img align="center" alt="Jonth-Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"/>
+  <img align="center" alt="Jonth-Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white"/>
   <img align="center" alt="Jonth-Graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img align="center" alt="Jonth-Apollo-Graphql" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
   <img align="center" alt="Jonth-Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
