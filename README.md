@@ -20,7 +20,7 @@
   
 
 - 🔮 Streamer at [Twitch](http://twitch.tv/eezyjb)
-- 🎨 Independent Artist
+- 🎨 Independent [Artist](https://www.artstation.com/eezy)
 - 📷 Amateur Photographer
 - 🎮 Gamer Development enthusiast
 - 🧘🏽‍♂️ Time for meditation
