@@ -19,12 +19,11 @@
   
   
 
-- 🔮 Streamer at [Twitch](http://twitch.tv/eezyjb)
+- 👾 Streamer at [Twitch](http://twitch.tv/eezyjb)
 - 🎨 Concept [Artist](https://www.artstation.com/eezy)
 - 📷 Amateur Photographer
 - 🎮 Gamer Development enthusiast
 - 🧘🏽‍♂️ Meditation is the key to everything
-- 🤖 Cyberpunk Universe Lover
   
 </p>
 
