@@ -6,6 +6,7 @@
 
 <h1>Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1></img>
 
+
  
 <p>
   I'm <strong>Jonathan Silva</strong>, a student about to become a Full Stack developer.
@@ -78,6 +79,8 @@
   <img align="center" alt="Jonth-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
      
 </div></br>
+
+![](https://komarev.com/ghpvc/?username=JonathSilva&style=for-the-badge&color=brightgreen)
 
 <hr/>
   
