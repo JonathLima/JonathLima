@@ -13,10 +13,7 @@
   Currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, 
   and playing games.
   
-  <div>
-    <img align="right" alt="Jonth-akira" height="200" width="250" src="https://media.giphy.com/media/26h0rcFBZRm2epqA8/giphy.gif">
-  </div>
-  
+
   
 
 - 👾 Streamer at [Twitch](http://twitch.tv/eezyjb)
@@ -26,7 +23,6 @@
 - 🧘🏽‍♂️ Meditation is the key to everything
   
 </p>
-
 
 <h4>Contact me</h4>
 
