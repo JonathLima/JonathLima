@@ -16,10 +16,10 @@
 
   
 
-- 👾 Streamer at [Twitch](http://twitch.tv/eezyjb)
+- 🎮 Game Developer enthusiast
 - 🎨 Concept [Artist](https://www.artstation.com/eezy)
 - 📷 Amateur Photographer
-- 🎮 Gamer Development enthusiast
+- 👾 Streamer at [Twitch](http://twitch.tv/eezyjb)
 - 🧘🏽‍♂️ Meditation is the key to everything
   
 </p>
