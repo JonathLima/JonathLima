@@ -9,8 +9,8 @@
 
  
 <p>
-  I'm <strong>Jonathan Silva</strong>, a student about to become a Mobile/Game developer.
-  Currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, 
+  I'm <strong>Jonathan Silva</strong>,
+  currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, 
   and playing games.
   
 
