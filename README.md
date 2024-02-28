@@ -9,9 +9,8 @@
 
  
 <p>
-  I'm <strong>Jonathan Silva</strong>,
-  currently in college studying system development, and my hobby is drawing, learning about technologies that interest me, 
-  and playing games.
+  I'm <strong>Jonathan Lima</strong>,
+  currently a software developer transitioning into cybersecurity. With a degree in system development, I'm diving into the realm of digital security. My passion for technology has led me to explore new horizons while continuing to draw, learn about emerging technologies, and enjoy gaming in my spare time.
   
 
   
