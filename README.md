@@ -18,7 +18,7 @@
 
 - 🎮 Game Developer enthusiast
 - 🎨 Concept [Artist](https://www.artstation.com/eezy)
-- 📷 Amateur Photographer
+- 📷 Amateur Photographer/Filmmaker
   
 </p>
 
