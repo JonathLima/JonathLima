@@ -1,7 +1,7 @@
 
 <div align="center">
-     <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathLima&theme=yeblu"/>
-    <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathLima&show_icons=true&theme=yeblu"/>
+     <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathLima&theme=radical"/>
+    <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathLima&show_icons=true&theme=radical"/>
 </div>
 
 <h1>Hello everyone! </br></h1></img>
