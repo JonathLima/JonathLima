@@ -16,8 +16,8 @@
   
 
 - 🎮 Game Developer enthusiast
-- 🎨 CG [Artist](https://www.artstation.com/eezy)
-- 📷 Amateur Photographer/Filmmaker
+- 🎨 CG [Artist](https://www.artstation.com/jonathlima)
+- 📷 Amateur [Photographer/Filmmaker](https://www.behance.net/jonathlima)
   
 </p>
 
