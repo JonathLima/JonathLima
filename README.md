@@ -10,7 +10,7 @@
  
 <p>
   I'm <strong>Jonathan Lima</strong>,
-  currently a software developer transitioning into cybersecurity. With a degree in system development, I'm diving into the realm of digital security. My passion for technology has led me to explore new horizons while continuing to draw, learn about emerging technologies, and enjoy gaming in my spare time.
+  currently a software developer. With a degree in system development, I'm diving into the realm of digital security. My passion for technology has led me to explore new horizons while continuing to draw, learn about emerging technologies, and enjoy gaming in my spare time.
   
 
   
