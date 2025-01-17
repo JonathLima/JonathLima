@@ -15,8 +15,9 @@
 
   
 
-- 🎮 Game Developer enthusiast
+- 🎮 Game Developer
 - 🎨 Cinematic [Artist](https://www.artstation.com/jonathlima)
+- 🔐 Cybersecurity enthusiast
   
 </p>
 
