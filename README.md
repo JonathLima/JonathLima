@@ -16,8 +16,7 @@
   
 
 - 🎮 Game Developer enthusiast
-- 🎨 CG [Artist](https://www.artstation.com/jonathlima)
-- 📷 Amateur [Photographer/Filmmaker](https://www.behance.net/jonathlima)
+- 🎨 Cinematic Artist [Artist](https://www.artstation.com/jonathlima)
   
 </p>
 
