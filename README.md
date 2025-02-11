@@ -15,7 +15,7 @@
 
   
 
-- 🎮 Game Developer
+- 🎮 Game & Level Designer
 - 🎨 Cinematic [Artist](https://www.artstation.com/jonathlima)
 - 🔐 Cybersecurity enthusiast
   
