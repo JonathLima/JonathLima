@@ -1,19 +1,7 @@
-
-<div align="center">
-     <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathLima&theme=ocean_dark"/>
-    <img height="225em" src="https://github-readme-stats.vercel.app/api?username=JonathLima&show_icons=true&theme=ocean_dark"/>
-</div>
-
 <h1>Hello everyone! </br></h1></img>
-
-
- 
 <p>
   I'm <strong>Jonathan Lima</strong>,
   currently a software developer. Making and designing games in my spare time.
-  
-
-  
 
 - 🎮 Game & Level Designer
 - 🎨 Cinematic [Artist](https://www.artstation.com/jonathlima)
@@ -21,14 +9,10 @@
   
 </p>
 
-<h4>Connect to me!</h4>
-
  <div>
   <a href="https://www.linkedin.com/in/JonathLima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      </div>
   
- 
-
 <h3>⚙️ Skills</h3>
  
 <div style="display: inline_block">
