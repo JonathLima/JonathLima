@@ -1,8 +1,7 @@
 <h1>Hello everyone! </br></h1></img>
 <p>
-  I'm <strong>Jonathan Lima</strong>,
-  currently a software developer. Making and designing games in my spare time.
-
+  I'm <strong>Jonathan Lima</strong>
+  
 - 🎮 Game & Level Designer
 - 🎨 Cinematic [Artist](https://www.artstation.com/jonathlima)
 - 🔐 Cybersecurity enthusiast
