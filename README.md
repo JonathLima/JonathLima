@@ -4,6 +4,7 @@
   
 - 🎮 Game & Level Designer
 - 🎨 Lighting & Cinematic [Artist](https://www.artstation.com/jonathlima)
+- 📷 Cinematography [Here](https://www.jonathanlimadp.com/)
 - 🔐 Cybersecurity enthusiast
   
 </p>
