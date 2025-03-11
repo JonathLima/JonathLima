@@ -2,7 +2,7 @@
 <p>
   I'm <strong>Jonathan Lima</strong>
   
-- 🎮 Game & Level Designer
+- 🎮 Game & Level [Designer](https://jonathlima.itch.io/)
 - 🎨 Lighting & Cinematic [Artist](https://www.artstation.com/jonathlima)
 - 📷 Cinematography [Here](https://www.jonathanlimadp.com/)
 - 🔐 Cybersecurity enthusiast
