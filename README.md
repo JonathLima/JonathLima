@@ -1,4 +1,3 @@
-<h1>Hello everyone! </br></h1></img>
 <p>
   I'm <strong>Jonathan Lima</strong>
   
