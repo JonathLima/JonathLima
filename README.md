@@ -21,10 +21,6 @@
   <img align="center" alt="Jonth-Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
   
   
-    
-   
-  <h3>📚 Keep Learning!</h3>
-  
   <div style="display: inline_block">
  
 </div></br>
