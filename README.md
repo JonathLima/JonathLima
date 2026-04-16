@@ -1,6 +1,5 @@
 <p>
-  I'm <strong>Jonathan Lima</strong>
-  
+
 - 🎮 Games [Link](https://jonathlima.itch.io/)
 - 🎨 Artstation [Link](https://www.artstation.com/jonathlima)
 - 📷 Cinematography [Link](https://www.jonathanlimadp.com/)
