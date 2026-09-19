@@ -18,5 +18,3 @@
   ![](https://komarev.com/ghpvc/?username=JonathLima&style=for-the-badge&color=brightgreen)
    ![Snake animation](https://github.com/JonathLima/JonathLima/blob/output/github-contribution-grid-snake.svg)
   
-    
-
